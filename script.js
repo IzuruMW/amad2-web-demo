@@ -26,6 +26,6 @@ function dev(){
     var sum=(fNum/sNum);
     console.log(sum);
 }
-
+var age =90;
 
 
