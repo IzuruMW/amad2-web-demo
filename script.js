@@ -28,4 +28,6 @@ function dev(){
 }
 var age =90;
 
+var address="col";
+
 
